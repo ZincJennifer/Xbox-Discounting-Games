@@ -1,6 +1,13 @@
-# Xbox-Discounting-Games(Python)
-爬取Xbox Now网站上的游戏优惠信息
+Xbox-Discounting-Games(Python)
 ======
+#爬取Xbox Now网站上的游戏优惠信息
+
+简要思路：
+1.用BeautifulSoup库解析网页
+2.构造三个分别获取游戏名、最低价服务器和最低价的函数
+3.用正则表达式筛选信息，并添加到相应列表
+4.利用prettytable库将列表转换成表格
+
 完整代码如下
 ----
 ```python
