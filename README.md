@@ -1,6 +1,6 @@
 Xbox-Discounting-Games(Python)
 ======
-=爬取Xbox Now网站上的游戏优惠信息
+爬取Xbox Now网站上的游戏优惠信息
 =====
 简要思路：
 ------
